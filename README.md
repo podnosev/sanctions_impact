@@ -6,3 +6,4 @@
   
  - [**Сайт**](https://sanctions-impact.lad-academy.ru/)
  - [**Презентация**](https://drive.google.com/file/d/1YqUc_dPbYXOpFgiZCZuhrdJFnaR4-Wck/view?usp=sharing)
+ - [**Статья**](https://iee.unn.ru/novosti/studenty-instituta-ekonomiki-uspeshno-zashhitili-diplomnyj-proekt-na-tsifrovyh-kafedrah-nngu/)
